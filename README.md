@@ -57,3 +57,6 @@
 16. Host Device Configurations.
 17. Configuring ISP routers.
 18. Test and Verifying Network Communication.
+    ![Screenshot (277)](https://github.com/emailnishus/Hospital-Network-Design-and-Implementation/assets/93818706/06e72b30-6e40-44cc-b113-e3879b84e6f7)
+
+
